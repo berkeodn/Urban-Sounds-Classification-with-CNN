@@ -1,5 +1,5 @@
 # Urban-Sounds-Classification-with-CNN
-In this repo, urban sounds classification made with CNN using spectrograms.
+In this repo, urban sounds classification is made with CNNs using spectrograms.
 # Dataset Information
 =================
 
